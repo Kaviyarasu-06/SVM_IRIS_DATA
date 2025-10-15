@@ -1,6 +1,6 @@
 # Iris Species Prediction (SVM)
 
-Live app: https://your-streamlit-deployment.example.com/iris-svm-app
+Live app: [https://your-streamlit-deployment.example.com/iris-svm-app](https://svmirisdata-u2jjkrgfgfm8uuwzlqfnvr.streamlit.app/)
 
 This repository contains a small iris species prediction project using Support Vector Machines (SVM) and a Streamlit UI.
 
