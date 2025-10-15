@@ -1,0 +1,13 @@
+prefix=K:/svm_iris_analysis/myvenv/Library
+exec_prefix=K:/svm_iris_analysis/myvenv/Library
+libdir=K:/svm_iris_analysis/myvenv/Library/lib
+sharedlibdir=K:/svm_iris_analysis/myvenv/Library/lib
+includedir=K:/svm_iris_analysis/myvenv/Library/include
+
+Name: zlib
+Description: zlib compression library
+Version: 1.3.1
+
+Requires:
+Libs: -L${libdir} -L${sharedlibdir} -lz
+Cflags: -I${includedir}
